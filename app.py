@@ -327,7 +327,7 @@ else:
 
     st.dataframe(
         payment_data,
-        use_container_width=True
+        width="stretch"
     )
 
 
@@ -585,7 +585,7 @@ else:
 
     st.dataframe(
         filtered_df,
-        use_container_width=True
+        width="stretch"
     )
 
 
