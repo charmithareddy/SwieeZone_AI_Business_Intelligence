@@ -6,7 +6,7 @@ An end-to-end Business Intelligence and Data Science project built for a fiction
 
 
 
-The project analyzes sales data, provides an interactive business intelligence dashboard, and uses Machine Learning to predict revenue based on business inputs.
+The project analyzes sales data, provides an interactive Business Intelligence dashboard, and uses Machine Learning to predict revenue based on business inputs.
 
 
 
@@ -50,7 +50,7 @@ The dashboard provides insights into:
 
 
 
-**The project combines:**
+The project combines:
 
 
 
@@ -78,7 +78,7 @@ into a single interactive application.
 
 
 
-**!\[Executive Dashboard](screenshots/1.Dashboard.png)**
+!\[Executive Dashboard](screenshots/1.Dashboard.png)
 
 
 
@@ -86,7 +86,7 @@ into a single interactive application.
 
 
 
-**!\[Analytics Dashboard](screenshots/2.Analytics.png)**
+!\[Analytics Dashboard](screenshots/2.Analytics.png)
 
 
 
@@ -94,7 +94,7 @@ into a single interactive application.
 
 
 
-**!\[Revenue Trend](screenshots/3.revenue%20trend.png)**
+!\[Revenue Trend](screenshots/3.revenue%20trend.png)
 
 
 
@@ -102,7 +102,7 @@ into a single interactive application.
 
 
 
-**!\[Product Performance](screenshots/4.perfomance.png)**
+!\[Product Performance](screenshots/4.perfomance.png)
 
 
 
@@ -110,7 +110,7 @@ into a single interactive application.
 
 
 
-**!\[Product Analysis](screenshots/5.analysis.png)**
+!\[Product Analysis](screenshots/5.analysis.png)
 
 
 
@@ -118,11 +118,11 @@ into a single interactive application.
 
 
 
-**!\[AI Revenue Predictor](screenshots/6.Predictor.png)**
+!\[AI Revenue Predictor](screenshots/6.Predictor.png)
 
 
 
-**---**
+\---
 
 
 
@@ -152,7 +152,7 @@ These KPIs give a quick overview of the overall business performance.
 
 
 
-**### 📈 Sales Analytics**
+\### 📈 Sales Analytics
 
 
 
@@ -320,7 +320,7 @@ The project uses a \*\*Random Forest Regression model\*\* for revenue prediction
 
 
 
-**### Machine Learning Workflow**
+\### Machine Learning Workflow
 
 
 
@@ -394,11 +394,7 @@ Payment Method
 
 data/swieeZone\_sales.csv
 
-
-
-**📁 Project Structure**
-
-
+📁 Project Structure
 
 SwieeZone\_AI\_Business\_Intelligence/
 
@@ -416,6 +412,22 @@ SwieeZone\_AI\_Business\_Intelligence/
 
 │
 
+├── screenshots/
+
+│   ├── 1.Dashboard.png
+
+│   ├── 2.Analytics.png
+
+│   ├── 3.revenue trend.png
+
+│   ├── 4.perfomance.png
+
+│   ├── 5.analysis.png
+
+│   └── 6.Predictor.png
+
+│
+
 ├── app.py
 
 ├── create\_data.py
@@ -430,11 +442,11 @@ SwieeZone\_AI\_Business\_Intelligence/
 
 
 
-**File Description**
+**📄 File Description**
 
 
 
-**app.py**
+app.py
 
 
 
@@ -442,7 +454,7 @@ Contains the Streamlit application and dashboard interface.
 
 
 
-**create\_data.py**
+create\_data.py
 
 
 
@@ -450,7 +462,7 @@ Generates the SwieeZone sales dataset.
 
 
 
-**train\_model.py**
+train\_model.py
 
 
 
@@ -474,7 +486,15 @@ Contains the trained Machine Learning model.
 
 
 
-**README.md**
+screenshots/
+
+
+
+Contains screenshots of the dashboard for project documentation and portfolio presentation.
+
+
+
+README.md
 
 
 
@@ -498,7 +518,7 @@ Follow the steps below to run the SwieeZone AI Business Intelligence Dashboard o
 
 
 
-1\. Install Python
+**1. Install Python**
 
 
 
@@ -518,7 +538,7 @@ If Python is installed correctly, the terminal will display the Python version.
 
 
 
-2\. Clone the GitHub Repository
+**2. Clone the GitHub Repository**
 
 
 
@@ -534,7 +554,7 @@ This downloads the project from GitHub to your computer.
 
 
 
-3\. Open the Project Folder
+**3. Open the Project Folder**
 
 
 
@@ -550,7 +570,7 @@ This makes the project folder the current working directory.
 
 
 
-4\. Create a Virtual Environment
+**4. Create a Virtual Environment**
 
 
 
@@ -566,7 +586,7 @@ A virtual environment keeps the libraries required by this project separate from
 
 
 
-5\. Activate the Virtual Environment
+**5. Activate the Virtual Environment**
 
 
 
@@ -602,7 +622,7 @@ This means the virtual environment is active.
 
 
 
-6\. Install Required Libraries
+**6. Install Required Libraries**
 
 
 
@@ -630,7 +650,7 @@ Matplotlib → Data visualization
 
 Joblib → Model saving and loading
 
-7\. Generate the Sales Dataset
+**7. Generate the Sales Dataset**
 
 
 
@@ -646,7 +666,7 @@ This script generates the SwieeZone sales dataset and stores it inside the data 
 
 
 
-8\. Train the Machine Learning Model
+**8. Train the Machine Learning Model**
 
 
 
@@ -674,7 +694,7 @@ Evaluates the model.
 
 Saves the trained model inside the models folder.
 
-9\. Start the Streamlit Dashboard
+**9. Start the Streamlit Dashboard**
 
 
 
@@ -706,7 +726,7 @@ Open that address in your browser.
 
 
 
-10\. Explore the Dashboard
+**10. Explore the Dashboard**
 
 
 
@@ -802,7 +822,7 @@ End-to-end Data Science project
 
 Interactive Business Intelligence dashboard
 
-Machine Learning based revenue prediction
+Machine Learning-based revenue prediction
 
 Automated business insights
 
@@ -850,11 +870,11 @@ Real-world e-commerce data integration
 
 
 
-**Charmitha Reddy**
+Charmitha Reddy
 
 
 
-GitHub:
+**GitHub:**
 
 
 
@@ -875,6 +895,4 @@ An end-to-end project combining:
 
 
 Python + Data Analysis + Data Visualization + Machine Learning + Business Intelligence
-
-
 
