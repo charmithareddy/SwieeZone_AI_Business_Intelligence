@@ -70,6 +70,62 @@ into a single interactive application.
 
 
 
+**## 📸 Dashboard Screenshots**
+
+
+
+**### 1. Executive Dashboard**
+
+
+
+**!\[Executive Dashboard](screenshots/1.Dashboard.png)**
+
+
+
+**### 2. Analytics Dashboard**
+
+
+
+**!\[Analytics Dashboard](screenshots/2.Analytics.png)**
+
+
+
+**### 3. Revenue Trend**
+
+
+
+**!\[Revenue Trend](screenshots/3.revenue%20trend.png)**
+
+
+
+**### 4. Product Performance**
+
+
+
+**!\[Product Performance](screenshots/4.perfomance.png)**
+
+
+
+**### 5. Product Analysis**
+
+
+
+**!\[Product Analysis](screenshots/5.analysis.png)**
+
+
+
+**### 6. AI Revenue Predictor**
+
+
+
+**!\[AI Revenue Predictor](screenshots/6.Predictor.png)**
+
+
+
+**---**
+
+
+
 **### 📊 Executive Dashboard**
 
 
