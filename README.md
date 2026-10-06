@@ -1,4 +1,4 @@
-**# SwieeZone AI Business Intelligence Dashboard**
+# SwieeZone AI Business Intelligence Dashboard
 
 
 
@@ -10,11 +10,11 @@ The project analyzes sales data, provides an interactive Business Intelligence d
 
 
 
-\---
+---
 
 
 
-**## 🚀 Project Overview**
+## 🚀 Project Overview
 
 
 
@@ -30,23 +30,23 @@ The dashboard provides insights into:
 
 
 
-\- Sales performance
+- Sales performance
 
-\- Revenue trends
+- Revenue trends
 
-\- Product performance
+- Product performance
 
-\- Category performance
+- Category performance
 
-\- Regional performance
+- Regional performance
 
-\- Payment method usage
+- Payment method usage
 
-\- Discount impact
+- Discount impact
 
-\- Revenue prediction
+- Revenue prediction
 
-\- Automated business insights
+- Automated business insights
 
 
 
@@ -54,7 +54,7 @@ The project combines:
 
 
 
-\*\*Data Analysis + Data Visualization + Machine Learning + Business Intelligence\*\*
+**Data Analysis + Data Visualization + Machine Learning + Business Intelligence**
 
 
 
@@ -62,71 +62,71 @@ into a single interactive application.
 
 
 
-\---
+---
 
 
 
-**## ✨ Key Features**
+## ✨ Key Features
 
 
 
-**## 📸 Dashboard Screenshots**
+## 📸 Dashboard Screenshots
 
 
 
-**### 1. Executive Dashboard**
+### 1. Executive Dashboard
 
 
 
-!\[Executive Dashboard](screenshots/1.Dashboard.png)
+![Executive Dashboard](screenshots/1.Dashboard.png)
 
 
 
-**### 2. Analytics Dashboard**
+### 2. Analytics Dashboard
 
 
 
-!\[Analytics Dashboard](screenshots/2.Analytics.png)
+![Analytics Dashboard](screenshots/2.Analytics.png)
 
 
 
-**### 3. Revenue Trend**
+### 3. Revenue Trend
 
 
 
-!\[Revenue Trend](screenshots/3.revenue%20trend.png)
+![Revenue Trend](screenshots/3.revenue%20trend.png)
 
 
 
-**### 4. Product Performance**
+### 4. Product Performance
 
 
 
-!\[Product Performance](screenshots/4.perfomance.png)
+![Product Performance](screenshots/4.perfomance.png)
 
 
 
-**### 5. Product Analysis**
+### 5. Product Analysis
 
 
 
-!\[Product Analysis](screenshots/5.analysis.png)
+![Product Analysis](screenshots/5.analysis.png)
 
 
 
-**### 6. AI Revenue Predictor**
+### 6. AI Revenue Predictor
 
 
 
-!\[AI Revenue Predictor](screenshots/6.Predictor.png)
+![AI Revenue Predictor](screenshots/6.Predictor.png)
 
 
 
-\---
+---
 
 
 
-**### 📊 Executive Dashboard**
+### 📊 Executive Dashboard
 
 
 
@@ -134,13 +134,13 @@ The dashboard provides important business KPIs such as:
 
 
 
-\- Total Orders
+- Total Orders
 
-\- Total Revenue
+- Total Revenue
 
-\- Average Order Value
+- Average Order Value
 
-\- Total Items Sold
+- Total Items Sold
 
 
 
@@ -148,11 +148,11 @@ These KPIs give a quick overview of the overall business performance.
 
 
 
-\---
+---
 
 
 
-\### 📈 Sales Analytics
+### 📈 Sales Analytics
 
 
 
@@ -160,19 +160,19 @@ The application provides interactive visualizations for:
 
 
 
-\- Revenue by Category
+- Revenue by Category
 
-\- Revenue by Region
+- Revenue by Region
 
-\- Monthly Revenue Trends
+- Monthly Revenue Trends
 
-\- Top 10 Products
+- Top 10 Products
 
-\- Lowest Performing Products
+- Lowest Performing Products
 
-\- Payment Method Analysis
+- Payment Method Analysis
 
-\- Discount Analysis
+- Discount Analysis
 
 
 
@@ -180,11 +180,11 @@ Users can apply filters to analyze specific parts of the business.
 
 
 
-\---
+---
 
 
 
-**### 🤖 AI Revenue Predictor**
+### 🤖 AI Revenue Predictor
 
 
 
@@ -196,31 +196,31 @@ The prediction uses features such as:
 
 
 
-\- Product
+- Product
 
-\- Category
+- Category
 
-\- Quantity
+- Quantity
 
-\- Price
+- Price
 
-\- Discount
+- Discount
 
-\- Region
+- Region
 
-\- Payment Method
-
-
-
-A \*\*Random Forest Regressor\*\* is used for revenue prediction.
+- Payment Method
 
 
 
-\---
+A **Random Forest Regressor** is used for revenue prediction.
 
 
 
-**### 💡 Automated Business Intelligence**
+---
+
+
+
+### 💡 Automated Business Intelligence
 
 
 
@@ -232,15 +232,15 @@ The application identifies:
 
 
 
-\- Best-performing product
+- Best-performing product
 
-\- Best-performing category
+- Best-performing category
 
-\- Strongest region
+- Strongest region
 
-\- Most-used payment method
+- Most-used payment method
 
-\- Average discount observations
+- Average discount observations
 
 
 
@@ -248,11 +248,11 @@ These insights help convert raw sales data into useful business information.
 
 
 
-\---
+---
 
 
 
-**### 🔎 Data Explorer**
+### 🔎 Data Explorer
 
 
 
@@ -264,11 +264,11 @@ Users can inspect the available sales records and apply the available filters.
 
 
 
-\---
+---
 
 
 
-**### 📥 CSV Data Export**
+### 📥 CSV Data Export
 
 
 
@@ -280,47 +280,47 @@ This allows users to perform additional analysis outside the application.
 
 
 
-\---
+---
 
 
 
-**## 🛠️ Technologies Used**
+## 🛠️ Technologies Used
 
 
 
-\- \*\*Python\*\* – Core programming language
+- **Python** – Core programming language
 
-\- \*\*Pandas\*\* – Data analysis and manipulation
+- **Pandas** – Data analysis and manipulation
 
-\- \*\*NumPy\*\* – Numerical operations
+- **NumPy** – Numerical operations
 
-\- \*\*Scikit-learn\*\* – Machine Learning
+- **Scikit-learn** – Machine Learning
 
-\- \*\*Streamlit\*\* – Interactive dashboard
+- **Streamlit** – Interactive dashboard
 
-\- \*\*Matplotlib\*\* – Data visualization
+- **Matplotlib** – Data visualization
 
-\- \*\*Joblib\*\* – Model saving and loading
+- **Joblib** – Model saving and loading
 
-\- \*\*Git\*\* – Version control
+- **Git** – Version control
 
-\- \*\*GitHub\*\* – Source code management
-
-
-
-\---
+- **GitHub** – Source code management
 
 
 
-**## 🧠 Machine Learning**
+---
 
 
 
-The project uses a \*\*Random Forest Regression model\*\* for revenue prediction.
+## 🧠 Machine Learning
 
 
 
-\### Machine Learning Workflow
+The project uses a **Random Forest Regression model** for revenue prediction.
+
+
+
+### Machine Learning Workflow
 
 
 
@@ -350,11 +350,11 @@ The trained model is stored in:
 
 ```text
 
-models/swieeZone\_revenue\_model.pkl
+models/swieeZone_revenue_model.pkl
 
 
 
-**📂 Dataset**
+📂 Dataset
 
 
 
@@ -388,27 +388,27 @@ Payment Method
 
 
 
-**The dataset is stored at:**
+The dataset is stored at:
 
 
 
-data/swieeZone\_sales.csv
+data/swieeZone_sales.csv
 
 📁 Project Structure
 
-SwieeZone\_AI\_Business\_Intelligence/
+SwieeZone_AI_Business_Intelligence/
 
 │
 
 ├── data/
 
-│   └── swieeZone\_sales.csv
+│   └── swieeZone_sales.csv
 
 │
 
 ├── models/
 
-│   └── swieeZone\_revenue\_model.pkl
+│   └── swieeZone_revenue_model.pkl
 
 │
 
@@ -430,9 +430,9 @@ SwieeZone\_AI\_Business\_Intelligence/
 
 ├── app.py
 
-├── create\_data.py
+├── create_data.py
 
-├── train\_model.py
+├── train_model.py
 
 ├── README.md
 
@@ -440,11 +440,7 @@ SwieeZone\_AI\_Business\_Intelligence/
 
 └── .venv/
 
-
-
-**📄 File Description**
-
-
+📄 File Description
 
 app.py
 
@@ -454,7 +450,7 @@ Contains the Streamlit application and dashboard interface.
 
 
 
-create\_data.py
+create_data.py
 
 
 
@@ -462,7 +458,7 @@ Generates the SwieeZone sales dataset.
 
 
 
-train\_model.py
+train_model.py
 
 
 
@@ -470,7 +466,7 @@ Trains and saves the Machine Learning revenue prediction model.
 
 
 
-data/swieeZone\_sales.csv
+data/swieeZone_sales.csv
 
 
 
@@ -478,7 +474,7 @@ Contains the sales data used for analysis and Machine Learning.
 
 
 
-models/swieeZone\_revenue\_model.pkl
+models/swieeZone_revenue_model.pkl
 
 
 
@@ -510,7 +506,7 @@ Specifies files and folders that should not be uploaded to GitHub, such as the v
 
 
 
-**⚙️ How to Run the Project**
+⚙️ How to Run the Project
 
 
 
@@ -518,7 +514,7 @@ Follow the steps below to run the SwieeZone AI Business Intelligence Dashboard o
 
 
 
-**1. Install Python**
+1\. Install Python
 
 
 
@@ -538,7 +534,7 @@ If Python is installed correctly, the terminal will display the Python version.
 
 
 
-**2. Clone the GitHub Repository**
+2\. Clone the GitHub Repository
 
 
 
@@ -546,37 +542,13 @@ Download the project from GitHub using:
 
 
 
-git clone https://github.com/charmithareddy/SwieeZone\_AI\_Business\_Intelligence.git
+git clone https://github.com/charmithareddy/SwieeZone_AI_Business_Intelligence.git
 
+3\. Open the Project Folder
 
+cd SwieeZone_AI_Business_Intelligence
 
-This downloads the project from GitHub to your computer.
-
-
-
-**3. Open the Project Folder**
-
-
-
-Move into the project folder:
-
-
-
-cd SwieeZone\_AI\_Business\_Intelligence
-
-
-
-This makes the project folder the current working directory.
-
-
-
-**4. Create a Virtual Environment**
-
-
-
-Create a Python virtual environment:
-
-
+4\. Create a Virtual Environment
 
 python -m venv .venv
 
@@ -586,7 +558,7 @@ A virtual environment keeps the libraries required by this project separate from
 
 
 
-**5. Activate the Virtual Environment**
+5\. Activate the Virtual Environment
 
 
 
@@ -610,123 +582,31 @@ at the beginning of the terminal line.
 
 
 
-For example:
-
-
-
-(.venv) PS C:\\Users\\YourName\\SwieeZone\_AI\_Business\_Intelligence>
-
-
-
-This means the virtual environment is active.
-
-
-
-**6. Install Required Libraries**
-
-
-
-Install the libraries used by the project:
-
-
+6\. Install Required Libraries
 
 pip install pandas numpy scikit-learn streamlit matplotlib joblib
 
+7\. Generate the Sales Dataset
 
+python create_data.py
 
-These libraries provide the main functionality of the application.
+8\. Train the Machine Learning Model
 
+python train_model.py
 
-
-Pandas → Data analysis
-
-NumPy → Numerical operations
-
-Scikit-learn → Machine Learning
-
-Streamlit → Interactive dashboard
-
-Matplotlib → Data visualization
-
-Joblib → Model saving and loading
-
-**7. Generate the Sales Dataset**
-
-
-
-Run:
-
-
-
-python create\_data.py
-
-
-
-This script generates the SwieeZone sales dataset and stores it inside the data folder.
-
-
-
-**8. Train the Machine Learning Model**
-
-
-
-Run:
-
-
-
-python train\_model.py
-
-
-
-This script:
-
-
-
-Loads the sales dataset.
-
-Selects the required features.
-
-Preprocesses the data.
-
-Trains the Random Forest model.
-
-Evaluates the model.
-
-Saves the trained model inside the models folder.
-
-**9. Start the Streamlit Dashboard**
-
-
-
-Run:
-
-
+9\. Start the Streamlit Dashboard
 
 streamlit run app.py
 
 
 
-Streamlit will start the application locally.
-
-
-
-A browser page will normally open automatically.
-
-
-
-If it does not open automatically, Streamlit will display a local address similar to:
+If the browser does not open automatically, open:
 
 
 
 http://localhost:8501
 
-
-
-Open that address in your browser.
-
-
-
-**10. Explore the Dashboard**
+10\. Explore the Dashboard
 
 
 
@@ -760,9 +640,7 @@ Explore the sales dataset
 
 Download filtered data as a CSV file
 
-
-
-**🔄 Running the Project Again**
+🔄 Running the Project Again
 
 
 
@@ -790,19 +668,19 @@ streamlit run app.py
 
 
 
-If the dataset needs to be recreated, run:
+If the dataset needs to be recreated:
 
 
 
-python create\_data.py
+python create_data.py
 
 
 
-If the Machine Learning model needs to be retrained, run:
+If the Machine Learning model needs to be retrained:
 
 
 
-python train\_model.py
+python train_model.py
 
 
 
@@ -812,11 +690,7 @@ Then start the dashboard again:
 
 streamlit run app.py
 
-
-
-**📌 Project Highlights**
-
-
+📌 Project Highlights
 
 End-to-end Data Science project
 
@@ -838,9 +712,7 @@ Git version control
 
 GitHub repository
 
-
-
-**🎯 Future Improvements**
+🎯 Future Improvements
 
 
 
@@ -864,9 +736,7 @@ Advanced recommendation systems
 
 Real-world e-commerce data integration
 
-
-
-**👩‍💻 Author**
+👩‍💻 Author
 
 
 
@@ -874,7 +744,7 @@ Charmitha Reddy
 
 
 
-**GitHub:**
+GitHub:
 
 
 
@@ -882,7 +752,7 @@ https://github.com/charmithareddy
 
 
 
-**⭐ Project**
+⭐ Project
 
 
 
